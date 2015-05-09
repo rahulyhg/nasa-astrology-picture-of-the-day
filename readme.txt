@@ -1,20 +1,19 @@
 === Plugin Name ===
 Contributors: ianwww
-Donate link: http://example.com/
-Tags: astrology, APOD, pic-of-the-day
+Tags: astrology, APOD, pic-of-the-day, nasa, space
 Requires at least: 4.0
 Tested up to: 4.2.2
 Stable tag: 4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
+Allow your readers to enjoy NASA's Astrology Picture of the Day on your blog with this easy to use and setup plugin.
 
 == Description ==
 
 This simple plugin will grab the NASA Astrology Picture of the Day and create a new post with it. You can choose which username it will post under as well as whether or not to go ahead and publish on creation. 
 
-Using this plugin will required you get an API Key from NASA, which is very easy to get.
+Using this plugin will required you get an API Key from NASA, which is very easy to get. This does not utilize an RSS feed and does not post duplicates.
 
 == Installation ==
 
@@ -30,7 +29,7 @@ e.g.
 
 = How exactly does it work? =
 
-Upon activation of the plugin it will grab that day's APOD(Astrology Picture of the Day), and publish it. This will also create a scheduled task to fetch the new APOD every 24 hours.
+Upon activation of the plugin, it will grab that day's APOD(Astrology Picture of the Day), and publish it. This will also create a scheduled task to fetch the new APOD every 24 hours.
 
 = Is this fully automated? =
 
