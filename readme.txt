@@ -28,6 +28,10 @@ e.g.
 
 == Frequently Asked Questions ==
 
+= How exactly does it work? =
+
+Open activation of the plugin it will grab that day's APOD(Astrology Picture of the Day), and publish it. This will also create a scheduled task to fetch the new APOD every 24 hours.
+
 = Is this fully automated? =
 
 Yes, this plugin is fully automated, once you set it up it will grab the Astrology Picture of the Day, once a day and create a post with it.
