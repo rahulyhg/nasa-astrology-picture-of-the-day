@@ -129,7 +129,7 @@ function register_apod_settings() {
 
 function apod_settings_page() { ?>
 <div class="wrap">
-<h2>NASA Astrology Picture of the Day(APOD)</h2>
+<h2>NASA Astronomy Picture of the Day(APOD)</h2>
 
 <form method="post" action="options.php">
     <?php settings_fields('apod-settings-group'); ?>
